@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.datadoghq:dd-sdk-android-ndk:1.13.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/dcd5f65e92e53932469cb1fe91d0e051/jetified-dd-sdk-android-ndk-1.13.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/dcd5f65e92e53932469cb1fe91d0e051/jetified-dd-sdk-android-ndk-1.13.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/dcd5f65e92e53932469cb1fe91d0e051/jetified-dd-sdk-android-ndk-1.13.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.datadoghq/dd-sdk-android-ndk/1.13.0/87d8da357a8e9d0bd055ddcef4eee0bb511e83a7/dd-sdk-android-ndk-1.13.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.datadoghq/dd-sdk-android-ndk/1.13.0/5e1f46a3615f73df84503e795ec84ae14014bc3a/dd-sdk-android-ndk-1.13.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

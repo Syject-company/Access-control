@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "440786680952",
+    "project_id": "safe-access-22ff5",
+    "storage_bucket": "safe-access-22ff5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440786680952:android:05abc74d8b60b9fb2a418d",
+        "android_client_info": {
+          "package_name": "com.spartans.safeAccess"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "440786680952-j6ph5asuh24aim6glrteas2bi6bhetuu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.spartans.safeAccess",
+            "certificate_hash": "5969d8119af5f98d96097aa3f3b4444f6ac7bd6c"
+          }
+        },
+        {
+          "client_id": "440786680952-s0m7oln7267dnm6iot1rl84vtriedcj8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.spartans.safeAccess",
+            "certificate_hash": "96a6e6d4cbd0207d8f6514a1c807be8f5888f32d"
+          }
+        },
+        {
+          "client_id": "440786680952-g52s6q5fnec64lps6bl2q4bmj0un6bqb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfmsuN1P0H2ke0ArOKdpQ7PPv_BsUigMA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "440786680952-g52s6q5fnec64lps6bl2q4bmj0un6bqb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "440786680952-987u2m77tvq206dj2jaqlf89kpjkl147.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.spartans.safeAccess"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

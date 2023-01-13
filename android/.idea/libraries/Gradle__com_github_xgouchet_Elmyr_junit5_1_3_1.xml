@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.xgouchet.Elmyr:junit5:1.3.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.xgouchet.Elmyr/junit5/1.3.1/ef8e06c00ff48b7b51d3af16e6f5be972769a5b5/junit5-1.3.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.xgouchet.Elmyr/junit5/1.3.1/609daf7c236bfff5cc9078e591831694c69a4889/junit5-1.3.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
